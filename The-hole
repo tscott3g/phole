@@ -33,12 +33,12 @@ log-ingestion.samsungacr.com
 
 0.0.0.0 manifest.googlevideo.com
 
-0.0.0.0 r1.sn-p5qlsndz.googlevideo.com
-0.0.0.0 r1.sn-p5qlsnzd.googlevideo.com
-0.0.0.0 r3.sn-p5qlsndk.googlevideo.com
-0.0.0.0 r4.sn-nv47lnly.googlevideo.com
-0.0.0.0 r5.sn-p5qlsndk.googlevideo.com
-0.0.0.0 r5.sn-p5qs7n7s.googlevideo.com
+#0.0.0.0 r1.sn-p5qlsndz.googlevideo.com
+#0.0.0.0 r1.sn-p5qlsnzd.googlevideo.com
+#0.0.0.0 r3.sn-p5qlsndk.googlevideo.com
+#0.0.0.0 r4.sn-nv47lnly.googlevideo.com
+#0.0.0.0 r5.sn-p5qlsndk.googlevideo.com
+#0.0.0.0 r5.sn-p5qs7n7s.googlevideo.com
 
 0.0.0.0 r1---sn-p5qlsnd6.googlevideo.com
 0.0.0.0 r1---sn-p5qs7ner.googlevideo.com
